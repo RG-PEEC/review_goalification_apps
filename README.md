@@ -26,6 +26,7 @@ Follow these steps to set up the project:
 
 3. **Install Dependencies**:
     ```bash
+    pip install --upgrade pip
     pip install -r requirements.txt
     ```
 
