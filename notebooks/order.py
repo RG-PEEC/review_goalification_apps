@@ -169,6 +169,8 @@ darker_colors = [
     'rgb(180,000,127)'  # 'All'
 ]
 
+
+
 # make a color map for phases
 color_discrete_map = {
     domain: darker_colors[i] for i, domain in enumerate(domain_order)
